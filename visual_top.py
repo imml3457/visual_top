@@ -1,5 +1,8 @@
 #! /usr/bin/env python
 
+#Written by Ian Mulet
+#A visual representation of top
+
 import random
 
 f = open("ps_snapshot.txt", 'r')
