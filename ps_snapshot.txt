@@ -1,0 +1,11 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   1164   788 ?        Sl   01:07   0:00 /init
+root        49  0.0  0.0   1252   360 ?        Ss   02:14   0:00 /init
+root        50  0.0  0.0   1252   360 ?        S    02:14   0:00 /init
+ian         51  0.0  0.0  57612  7948 pts/0    Ss   02:14   0:00 -zsh
+ian        173  0.0  0.0  19920  3464 pts/0    S+   02:26   0:00 tmux
+ian        175  0.0  0.0  28788  4156 ?        Ss   02:26   0:00 tmux
+ian        176  0.3  0.0  55396  7776 pts/1    Ss   02:26   0:00 -zsh
+ian        235 80.0  0.0  55396  7940 pts/2    Rs+  02:26   0:26 -zsh
+ian        335  0.0  0.0  13316  3236 pts/1    S+   02:26   0:00 /bin/bash ./run.sh
+ian        505  0.0  0.0  37800  3324 pts/1    R+   02:26   0:00 ps aux
