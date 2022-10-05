@@ -26,3 +26,10 @@ and understand what was taking lots of CPU or memory!
 If you have any trouble please reach out
 
 It came to my attention after testing on different machines that the jpeg output seems to be cropped weird. I can add some pictures on my end.
+
+
+![alt text](https://github.com/imml3457/visual_top/blob/master/temp1.jpg?raw=true)
+![alt text](https://github.com/imml3457/visual_top/blob/master/temp2.jpg?raw=true)
+![alt text](https://github.com/imml3457/visual_top/blob/master/temp3.jpg?raw=true)
+![alt text](https://github.com/imml3457/visual_top/blob/master/temp4.jpg?raw=true)
+![alt text](https://github.com/imml3457/visual_top/blob/master/temp5.jpg?raw=true)
